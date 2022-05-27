@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.app{
+  text-align:center;
+}
+
+input{
+  border: 1px solid black;
+  margin: 15px;
+}
+

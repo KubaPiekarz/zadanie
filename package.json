@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-paginate": "^8.1.3"
+  }
+}
